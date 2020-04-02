@@ -1,0 +1,9 @@
+E:\Visual Studio 2017\source\repos\PrestationDeServicesWCFService\PrestationDeServicesWCFService\obj\Debug\PrestationDeServicesWCFService.csprojAssemblyReference.cache
+E:\Visual Studio 2017\source\repos\PrestationDeServicesWCFService\PrestationDeServicesWCFService\obj\Debug\PrestationDeServicesWCFService.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2017\source\repos\PrestationDeServicesWCFService\PrestationDeServicesWCFService\bin\PrestationDeServicesWCFService.dll.config
+E:\Visual Studio 2017\source\repos\PrestationDeServicesWCFService\PrestationDeServicesWCFService\bin\PrestationDeServicesWCFService.dll
+E:\Visual Studio 2017\source\repos\PrestationDeServicesWCFService\PrestationDeServicesWCFService\bin\PrestationDeServicesWCFService.pdb
+E:\Visual Studio 2017\source\repos\PrestationDeServicesWCFService\PrestationDeServicesWCFService\bin\mysql.data.dll
+E:\Visual Studio 2017\source\repos\PrestationDeServicesWCFService\PrestationDeServicesWCFService\obj\Debug\PrestationDeServicesWCFService.csproj.CopyComplete
+E:\Visual Studio 2017\source\repos\PrestationDeServicesWCFService\PrestationDeServicesWCFService\obj\Debug\PrestationDeServicesWCFService.dll
+E:\Visual Studio 2017\source\repos\PrestationDeServicesWCFService\PrestationDeServicesWCFService\obj\Debug\PrestationDeServicesWCFService.pdb
